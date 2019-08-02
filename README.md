@@ -1,7 +1,7 @@
 # Psychic-Game
 Psychic Game
 
-Deployed at - 
+Deployed at - https://kramrock.github.io/Psychic-Game/
 
 sorry for the formatting
 
